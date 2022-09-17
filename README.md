@@ -1,2 +1,2 @@
 # paecraft.github.io
-A reCAPTCHA test.
+A reCAPTCHA test and various other projects in this site.
